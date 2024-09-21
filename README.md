@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there! I’m Niaz Roky, a passionate data scientist and machine learning enthusiast with a background in physics. I love exploring data, building robust machine learning models, and applying innovative solutions to real-world problems. Currently, I’m researching the intersection of machine learning and nuclear physics. Let's connect and collaborate!
+I’m Niaz Roky, a passionate data science and machine learning enthusiast with a background in physics. I love exploring data, building robust machine learning models, and applying innovative solutions to real-world problems. Currently, I’m researching the intersection of machine learning and nuclear physics. Let's connect and collaborate!
 
 
 ## 🌐 Socials:
