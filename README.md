@@ -1,6 +1,6 @@
 <h3 align="center">Hi 👋, I'm Md. Niazul Islam Roky, a passionate data science and machine learning enthusiast with a background in physics. I specialize in cleaning data, building robust machine learning models, and deploying them on AWS. I am skilled in Django and have exposure to React, enabling me to connect React frontends with Django backends. Additionally, I can deploy full-stack applications on AWS EC2 instances.</h3>
 
-- 📫 **How to reach me:** [niazroky75@gmail.com](mailto:niazroky75@gmail.com)
+- 📫 **How to reach me:** niazroky75@gmail.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -15,7 +15,6 @@
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> <strong>AWS</strong> </a>
   <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> <strong>Django</strong> </a>
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> <strong>Docker</strong> </a>
-  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> <strong>Flask</strong> </a>
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> <strong>HTML5</strong> </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> <strong>JavaScript</strong> </a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> <strong>MySQL</strong> </a>
