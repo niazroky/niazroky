@@ -1,6 +1,6 @@
 <p align="center">Hi, I'm Md. Niazul Islam Roky, a passionate data science and machine learning enthusiast with a background in physics. I specialize in cleaning data, building robust machine learning models, and deploying them on AWS. I am skilled in Django and have exposure to React, enabling me to connect React frontends with Django backends. Additionally, I can deploy full-stack applications on AWS EC2 instances.</p>
 
-<h3 align="left">Connect with me:</h3>
+<p align="left">Connect with me:</p>
 <p align="left">
   <a href="https://twitter.com/niazroky" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="niazroky" height="30" width="40" /></a>
   <a href="https://linkedin.com/in/niazroky" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="niazroky" height="30" width="40" /></a>
@@ -8,7 +8,7 @@
   <a href="https://kaggle.com/mdniazulislamroky" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="mdniazulislamroky" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<p align="left">Languages and Tools:</p>
 <p align="left">
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> <strong>AWS</strong> </a>
   <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> <strong>Django</strong> </a>
