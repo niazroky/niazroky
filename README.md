@@ -1,4 +1,4 @@
-<h3 align="center">Hi, I'm Md. Niazul Islam Roky, a passionate data science and machine learning enthusiast with a background in physics. I specialize in cleaning data, building robust machine learning models, and deploying them on AWS. I am skilled in Django and have exposure to React, enabling me to connect React frontends with Django backends. Additionally, I can deploy full-stack applications on AWS EC2 instances.</h3>
+<p align="center">Hi, I'm Md. Niazul Islam Roky, a passionate data science and machine learning enthusiast with a background in physics. I specialize in cleaning data, building robust machine learning models, and deploying them on AWS. I am skilled in Django and have exposure to React, enabling me to connect React frontends with Django backends. Additionally, I can deploy full-stack applications on AWS EC2 instances.</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
