@@ -1,7 +1,5 @@
 ## 👋 Hi, I'm Md. Niazul Islam Roky
 
----
-
 ### 💼 Tech Stack & Expertise
 
 #### 🧠 Core Skills
