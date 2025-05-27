@@ -1,26 +1,42 @@
-<p>Hi, I'm Md. Niazul Islam Roky, a passionate data science and machine learning enthusiast with a background in physics. I specialize in cleaning data, building robust machine learning models, and deploying them on AWS. I am skilled in Django and have exposure to React, enabling me to connect React frontends with Django backends. Additionally, I can deploy full-stack applications on AWS EC2 instances.</p>
+## 👋 Hi, I'm Md. Niazul Islam Roky
 
-<p align="left">Connect with me:</p>
-<a href="https://linkedin.com/in/niazroky" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="niazroky" height="30" width="40" /></a>
-  <a href="https://www.youtube.com/@niazroky" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="niazroky" height="30" width="40" /></a>
-  <a href="https://kaggle.com/mdniazulislamroky" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="mdniazulislamroky" height="30" width="40" /></a>
-</p>
+---
 
-<p align="left">Languages and Tools:</p>
-<p align="left">
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> <strong>AWS</strong> </a>
-  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> <strong>Django</strong> </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> <strong>Docker</strong> </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> <strong>HTML5</strong> </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> <strong>JavaScript</strong> </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> <strong>MySQL</strong> </a>
-  <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> <strong>OpenCV</strong> </a>
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> <strong>Pandas</strong> </a>
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> <strong>PostgreSQL</strong> </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> <strong>Python</strong> </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> <strong>React</strong> </a>
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> <strong>Scikit-Learn</strong> </a>
-  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> <strong>Seaborn</strong> </a>
-  <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> <strong>SQLite</strong> </a>
-  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> <strong>TensorFlow</strong> </a>
-</p>
+### 💼 Tech Stack & Expertise
+
+#### 🧠 Core Skills
+- **Python** (core language for data science and backend development)
+- **Data Analysis & ML:** Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, TensorFlow
+- **MLOps & Deployment:** Model training, evaluation, and deployment on cloud
+
+#### 🌐 Web Development
+- **Backend:** Django (REST APIs, authentication, admin customization)
+- **Frontend:** React (component-based UI, hooks, API integration)
+- **Live App:** [cupcp.com](https://cupcp.com) — a real-world application used by our department, built with Django + React and deployed on AWS EC2
+
+#### ☁️ DevOps & Cloud
+- **Cloud:** AWS EC2 (secure, scalable deployments), AWS Sagemaker
+- **Containers:** Docker (containerization for portability and reproducibility)
+- **CI/CD:** GitHub Actions (automated workflows, testing, deployment)
+
+#### 🛠️ Tools & Platforms
+- **Version Control:** Git, GitHub
+- **Databases:** PostgreSQL, MySQL, SQLite
+- **Others:** MLflow, Dagshub, Grafana etc. 
+
+---
+
+
+### 📫 Connect with Me
+
+Email me at: **niazroky75@gmail.com**
+
+<a href="https://linkedin.com/in/niazroky" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="niazroky" height="30" width="40" />
+</a>
+<a href="https://www.youtube.com/@niazroky" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="niazroky" height="30" width="40" />
+</a>
+<a href="https://kaggle.com/mdniazulislamroky" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="mdniazulislamroky" height="30" width="40" />
+</a>
